@@ -1,6 +1,4 @@
-// Assignment 1 - COMP 348
-// Written By: Afra Azreen (Student ID: 40234047)
-// Submitted on: 19/02/24 
+// Movie Recommendation System 
 
 #include <stdio.h>
 #include <stdlib.h>
